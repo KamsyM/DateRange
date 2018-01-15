@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ConsoleApp1/v15/Server/sqlite3
+/.vs/DateRange/v15/Server/sqlite3
+/ConsoleApp1/bin/Debug
+/ConsoleApp1/obj/Debug
